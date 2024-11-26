@@ -34,8 +34,8 @@ body{
     font-weight: 700;
 }
  .text p{
-    text-align: center;
-    padding:0 5px;
+    text-align: left;
+    padding:0 10px;
     color: rgb(141, 133, 133);
     line-height:1.2;
  }
